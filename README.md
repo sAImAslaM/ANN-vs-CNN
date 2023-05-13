@@ -1,1 +1,3 @@
 # ANN-vs-CNN
+
+Convolutional Neural Networks (CNNs) are generally considered a better fit for image classification tasks compared to Artificial Neural Networks (ANNs) because CNNs are designed to take advantage of the spatial structure in image data by using convolutional layers, while ANNs do not explicitly consider the spatial structure of the data. CNNs are also typically more efficient for image classification tasks due to their ability to share weights across the entire image. Additionally, CNNs can learn hierarchical features that capture increasingly abstract representations of the image data, which is important for complex image recognition tasks.
